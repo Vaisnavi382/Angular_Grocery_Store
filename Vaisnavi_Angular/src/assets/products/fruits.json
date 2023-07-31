@@ -1,0 +1,32 @@
+[
+	{
+		"productId": 11,
+		"productName": "Apple",
+		"description": "Freshly picked green ripe apples",
+		"price": 100,
+		"imageUrl": "assets/imgs/apple.jpeg"
+	},
+	{
+		"productId": 12,
+		"productName": "Banana",
+		"description": "Yellow yelakki bananas",
+		"price": 70,
+		"imageUrl": "assets/imgs/banana.jpeg"
+
+	},
+	{
+		"productId": 13,
+		"productName": "Strawberry",
+		"description": "Fresh, juicy, hand-picked berries",
+		"price": 300,
+		"imageUrl": "assets/imgs/strawberry.jpeg"
+	},
+	{
+		"productId": 14,
+		"productName": "BlackBerries",
+		"description": "Fresh black berries",
+		"price": 400,
+		"imageUrl": "assets/imgs/blackberry.jpeg"
+
+	}
+]

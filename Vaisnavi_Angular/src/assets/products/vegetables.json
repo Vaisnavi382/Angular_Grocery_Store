@@ -1,0 +1,32 @@
+[
+	{
+		"productId": 21,
+		"productName": "Brinjal",
+		"description": "Fresh veggie",
+		"price": 120,
+		"imageUrl": "assets/imgs/brinjal.jpeg"
+
+	},
+	{
+		"productId": 22,
+		"productName": "JackFruit",
+		"description": "Fresh veggie",
+		"price": 140,
+		"imageUrl": "assets/imgs/jackfruit.jpeg"
+	},
+	{
+		"productId": 23,
+		"productName": "Okra",
+		"description": "Fresh veggie",
+		"price": 75,
+		"imageUrl": "assets/imgs/okra.jpeg"
+
+	},
+	{
+		"productId": 24,
+		"productName": "BottleGourd",
+		"description": "Fresh veggie",
+		"price": 30,
+		"imageUrl": "assets/imgs/bottlegourd.jpeg"
+	}
+]
